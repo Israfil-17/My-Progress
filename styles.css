@@ -5,9 +5,14 @@ body {
     padding: 15px;
     overflow-x: hidden;
     /*this one actually removes the scrollbar*/
+    color: rgb(216, 176, 0);
+    font-size: 18px;
 }
 h1, p {
     text-align: center;
     width: 80%;
     margin: 18px auto;
+}
+li {
+    font-size: 18px;
 }
