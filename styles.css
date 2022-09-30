@@ -7,6 +7,7 @@ body {
     /*this one actually removes the scrollbar*/
     color: rgb(216, 176, 0);
     font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1, p {
     text-align: center;
