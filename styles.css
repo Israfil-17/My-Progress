@@ -26,3 +26,15 @@ a:hover {
 a:visited {
     color: black;
 }
+.lists {
+    width: 90%;
+    margin: 25px 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.list {
+    display: inline-block;
+    width: 30%;
+    margin: 11px;
+    border: 1px solid black;
+}
