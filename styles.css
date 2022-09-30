@@ -17,3 +17,12 @@ h1, p {
 li {
     font-size: 18px;
 }
+a {
+    color: rgb(216, 176, 0);
+}
+a:hover {
+    color: black;
+}
+a:visited {
+    color: black;
+}
