@@ -3,6 +3,8 @@ body {
     margin: 0;
     background-color: rgb(97, 16, 97);
     padding: 15px;
+    overflow-x: hidden;
+    /*this one actually removes the scrollbar*/
 }
 h1, p {
     text-align: center;
